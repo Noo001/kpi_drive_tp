@@ -25,3 +25,18 @@ Flutter-приложение для демонстрации работы с API
 **Что будет при неверном/просроченном токене?**  
 HTTP-статус: `401 Unauthorized`  
 Тело ошибки: `{"message": "Unauthorized"}` (или аналогичное)
+
+## Скриншоты
+
+### 1. Получение токена в Postman
+![Токен](screenshots/1_token.png)
+
+### 2. Список показателей
+![Показатели](screenshots/2_indicators.png)
+
+### 3. Показатель индикатора в оплате
+![Оплата](screenshots/3_payment_indicator.png)
+
+### 4. Скриншот приложения
+![Приложение](screenshots/program.png)
+
